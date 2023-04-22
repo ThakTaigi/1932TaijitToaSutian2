@@ -1,3 +1,3 @@
 # scannedImgViewer
 
-[Soat-bêng 說明](https://thak.taigi.info/scannedImgViewer/soatbeng/)
+[Soat-bêng 說明](https://thak.taigi.info/1932TaijitToaSutian2/soatbeng/)
