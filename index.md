@@ -15,7 +15,7 @@ title: 紹介
   - 大家公認siōng好ê台語辭典
   - 保留戰前日本時代toaⁿ-tiah ê台語詞，差不多有9萬條
   - 用台北腔做標準，nā chhiau bô請ka-tī轉換拼寫方式
-  - [上卷](http://thak.taigi.info/1931TaijitToaSutian1/){:target="_blank"} tī 1931年出版，下卷tī 1932年出版
+  - [上卷](https://thak.taigi.info/1931TaijitToaSutian1/){:target="_blank"} tī 1931年出版，下卷tī 1932年出版
 
 ---
 ## Chi-chhî 支持
