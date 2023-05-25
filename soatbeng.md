@@ -4,6 +4,9 @@ title: 說明
 permalink: /soatbeng/
 ---
 
+## Te̍k-pia̍t Kám-siā 特別感謝：
+- 感謝Lîm Chùn-io̍k（林俊育）先生將原文數位化têng phah字，翻寫字詞、摘譯說明，khǹg tī台語信望愛ê網站：[https://taigi.fhl.net/dict/](https://taigi.fhl.net/dict/){:target="_blank"}，koh用開放授權 [CC BY-NC-SA 3.0 TW](https://creativecommons.org/licenses/by-nc-sa/3.0/tw/) kā資料公開。
+
 ## Seng-bêng 聲明
 - 數位化文字台譯版基礎是 Lîm Chùn-io̍k（林俊育）先生翻寫、摘譯，用 [CC BY-NC-SA 3.0 TW](https://creativecommons.org/licenses/by-nc-sa/3.0/tw/){:target="_blank"} 授權公開
 - ChhoeTaigi將 Lîm Chùn-io̍k（林俊育）先生ê基礎資料têng校對，koh kā原冊日文全文數位化，目前tng teh進行
